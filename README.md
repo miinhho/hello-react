@@ -12,7 +12,6 @@ React 를 단단하고 탄탄하게 🦾
 3. 응답해라 컴포넌트 📢
 4. State 만지작 만지작 ✍️
 5. React 탈출하기 🤛
-6. 넌 이제 도구야, React ⚒️
 
 **준비사항**
 - HTML, CSS, JavaScript 에 대한 기본적인 지식
